@@ -1,0 +1,4 @@
+This is File A
+this is a changed filegit status
+ add again
+ dasdsadddsdsd
